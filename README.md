@@ -1,4 +1,4 @@
-# Aidan Feldman API
+# Yesh API
 
 ## To run locally
 
@@ -16,6 +16,4 @@ open http://localhost:9292
 
 ## Inspiration
 
-* https://github.com/bhollis/jsonview
-* https://github.com/josdejong/jsoneditoronline
-* http://abe.is/
+Shamelessly borrowed from https://github.com/afeld/api.afeld.me

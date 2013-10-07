@@ -1,230 +1,91 @@
 {
-  "name": "Aidan Feldman",
-  "url": "http://api.afeld.me",
+  "name": "Keerthi Yendamuri",
+  "aka": "Yesh",
+  "url": "http://api.kyendamuri.me",
   "profiles": {
     "facebook": {
-      "username": "aidan.feldman",
-      "profile_url": "https://facebook.com/aidan.feldman"
+      "username": "yesh.yk",
+      "profile_url": "https://facebook.com/yesh.yk"
     },
     "foursquare": {
-      "username": "aidanfeldman",
-      "profile_url": "https://foursquare.com/aidanfeldman"
+      "username": "yesh",
+      "profile_url": "https://foursquare.com/yesh"
     },
     "github": {
-      "username": "afeld",
-      "profile_url": "https://github.com/afeld"
-    },
-    "jux": {
-      "username": "aidan",
-      "profile_url": "http://afeld.me"
+      "username": "yeshwanthyk",
+      "profile_url": "https://github.com/yeshwanthyk"
     },
     "twitter": {
-      "username": "aidanfeldman",
-      "profile_url": "https://twitter.com/aidanfeldman"
+      "username": "yesh",
+      "profile_url": "https://twitter.com/yesh"
+    },
+    "tumblr": {
+      "username": "yesh",
+      "profile_url": "tumblr.kyendamuri.com"
     }
   },
   "employment": {
     "coding": [
       {
-        "employer": "Jux",
-        "title": "Senior Web Developer",
-        "description": "Working on full-stack Ruby and JavaScript.",
-        "start_date": "01/2011",
+        "employer": "TailWind",
+        "title": "Product and Software Engineer",
+        "start_date": "06/2013",
         "end_date": null
       },
       {
-        "employer": "American Express Publishing",
-        "title": "Contract Web Developer",
-        "description": "Building CMS tools and microsites for FoodAndWine.com.",
-        "start_date": "08/2010",
-        "end_date": "01/2011"
-      }
-    ],
-    "teaching": [
-      {
-        "employer": "General Assembly",
-        "title": "Instructor",
-        "description": "Teaching JavaScript as part of the Front-End + Rails curriculum.",
-        "start_date": "02/2013",
-        "end_date": null
-      },
-      {
-        "employer": "New York University",
-        "title": "Adjunct Instructor",
-        "description": "Teaching Advanced JavaScript.",
-        "profile_url": "http://scps.nyu.edu/content/scps/faculty/faculty-profile.html?id=14293",
+        "employer": "CBS Local",
+        "title": "Software Developer",
         "start_date": "06/2012",
-        "end_date": null
+        "end_date": "06/2013"
       }
-    ],
-    "dance": [
-      {
-        "employer": "danceTactics Performance Group",
-        "choreographer": "Keith Thompson",
-        "url": "http://dancetactics.org",
-        "start_date": "05/2012",
-        "end_date": null
-      },
-      {
-        "employer": "Artichoke Dance Company",
-        "choreographer": "Lynn Neuman",
-        "url": "http://artichokedance.org",
-        "start_date": "10/2010",
-        "end_date": null
-      },
-      {
-        "employer": "Chavasse Dance & Performance",
-        "choreographer": "Amy Chavasse",
-        "url": "http://chavassedanceandperformance.com",
-        "start_date": "06/2010",
-        "end_date": null
-      }
-    ]
-  },
+    ]},
   "education": [
     {
-      "school": "University of Michigan",
-      "location": "Ann Arbor, MI",
-      "start_date": "08/2005",
-      "end_date": "08/2010",
+      "school": "State University of New York, Stony Brook",
+      "location": "Stony Brook, NY",
+      "start_date": "07/2010",
+      "end_date": "05/2012",
       "degrees": [
         {
-          "title": "BSE",
+          "title": "MS",
           "major": "Computer Science Engineering"
-        },
-        {
-          "title": "BFA",
-          "major": "Dance"
         }
-      ]
+    ]
     },
     {
-      "school": "Oak Park and River Forest High School",
-      "location": "Oak Park, IL",
-      "start_date": "08/2001",
-      "end_date": "06/2005"
+      "school": "Anna University",
+      "location": "Chennai, India",
+      "start_date": "07/2006",
+      "end_date": "05/2010"
     }
   ],
   "projects": [
     {
-      "title": "Advanced JavaScript",
-      "description": "Interactive slides, course outline and resources for teach Advanced JS.",
-      "url": "https://github.com/afeld/advanced_js"
+      "title": "We The People",
+      "description": "Improve awareness of candidates in local elections(US)",
+      "url": "https://github.com/DreamsofPy/we-the-people"
     },
     {
-      "title": "Backbone-Nested",
-      "description": "A plugin to make Backbone.js keep track of nested attributes.",
-      "url": "http://afeld.github.com/backbone-nested"
+      "title": "Cloaked Adventure",
+      "description": "50 Books. 50 Days.",
+      "url": "https://github.com/Yeshwanthyk/cloaked-adventure"
     },
     {
-      "title": "Coolest Thing All Week",
-      "description": "Mailing list for people to share the coolest thing they've seen in the past seven days.",
-      "url": "https://groups.google.com/forum/?fromgroups#!forum/coolest-thing-all-week"
+      "title": "Notebook",
+      "description": "Notes and such..",
+      "url": "https://github.com/Yeshwanthyk/notebook"
     },
     {
-      "title": "github-find",
-      "description": "Chrome extension for searching code within a particular repo.",
-      "url": "https://chrome.google.com/webstore/detail/github-find/blocadmfchabihonegcgjjikbbmpliph"
-    },
-    {
-      "title": "JSONProxy",
-      "description": "Simple proxy and client library for doing cross-domain requests.",
-      "url": "http://jsonp.jit.su"
-    },
-    {
-      "title": "Hacker Hours",
-      "description": "Free office hours for programming help, running weekly+ since 09/2011.",
-      "url": "http://hackerhours.org"
-    },
-    {
-      "title": "Magickly",
-      "description": "Image manipulation API as a service/gem.",
-      "url": "http://magickly.jux.com"
-    },
-    {
-      "title": "Mongoid-Locker",
-      "description": "Gem for document-level locking in MongoDB.",
-      "url": "https://github.com/afeld/mongoid-locker"
-    },
-    {
-      "title": "mustachify.me",
-      "description": "Automatic mustachifying of any image.",
-      "url": "http://mustachify.me"
-    },
-    {
-      "title": "Stringer",
-      "description": "Virtual stringed instrument, played with a Kinect.  Third place at NYC Music Hackday 2011.",
-      "url": "http://afeld.github.com/stringer"
-    }
-  ],
-  "writing": [
-    {
-      "title": "Developing a Backbone.js Edge",
-      "type": "book",
-      "publisher": "Backstop Media",
-      "publish_date": null,
-      "url": "http://bleedingedgepress.com/our-books"
-    },
-    {
-      "title": "Hacker Hours: The awesome grassroots meetup that teaches New Yorkers to code",
-      "type": "interview",
-      "publisher": "The Next Web",
-      "publish_date": "05/14/2012",
-      "url": "http://thenextweb.com/dd/2012/05/14/hacker-hours-the-awesome-grassroots-meetup-that-teaches-new-yorkers-to-code"
-    },
-    {
-      "title": "Hacker Olympics, the Un-Hackathon",
-      "type": "blog",
-      "publisher": "Twilio",
-      "publish_date": "03/15/2012",
-      "url": "http://www.twilio.com/blog/2012/03/hacker-olympics-the-un-hackathon-guest-post-by-aidan-feldman.html"
+      "title": "Serendipity",
+      "description": "Happy accidents are waiting to happen.",
+      "url": "https://github.com/Yeshwanthyk/serendipity"
     }
   ],
   "talks": [
     {
-      "title": "MongoDB + Ruby Workshop",
-      "date": "03/27/2013",
-      "url": "https://github.com/afeld/mongo_ruby_workshop"
-    },
-    {
-      "title": "Hackathon Workshop",
-      "date": "03/26/2013",
-      "url": "https://github.com/afeld/hackathon_workshop/wiki"
-    },
-    {
-      "title": "Introduction to Backbone.js",
-      "date": "03/11/2013",
-      "url": "https://github.com/afeld/intro_to_backbone"
-    },
-    {
-      "title": "Single-Page App Architecture",
-      "date": "03/07/2013",
-      "url": "https://github.com/afeld/spaa"
-    },
-    {
-      "title": "Seven Languages is Seven Months: Ruby",
-      "date": "10/24/2012",
-      "url": "https://gist.github.com/afeld/3944262"
-    },
-    {
-      "title": "What Developers Want",
-      "description": "Talk and panelist on how to make APIs developer-friendly.  I did a slow jam.",
-      "event": "Business of APIs Conference 2012",
-      "date": "10/17/2012",
-      "url": "http://afeld.me/nerdery/816975"
-    },
-    {
-      "title": "Junior Developer panel",
-      "description": "Organizer and moderator of panel on how to get your first job as a programmer.",
-      "event": "NYC on Rails meetup",
-      "date": "9/19/2012",
-      "url": "http://afeld.me/nerdery/522101"
-    },
-    {
-      "title": "Learn2Code",
-      "event": "Hacking for Hustlers meetup",
-      "date": "11/14/2011",
-      "url": "http://afeld.me/nerdery/38274"
+      "title": "What we take for Granted",
+      "date": "08/2013"
     }
   ]
+
 }
